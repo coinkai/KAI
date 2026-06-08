@@ -42,6 +42,8 @@ KAI is an ERC-20 token deployed on Base. The project focuses on digital identity
 
 ## Transparency
 
+- [Whitepaper](KAI-Whitepaper.md)
+
 The official KAI Token contract address is:
 
 ```text
