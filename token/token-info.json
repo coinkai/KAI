@@ -1,0 +1,13 @@
+{
+  "name": "KAI Token",
+  "symbol": "KAI",
+  "network": "Base",
+  "chainId": 8453,
+  "contractAddress": "0x766deda04ACFF9098966b986d3e9f246Cfea5C74",
+  "decimals": 18,
+  "maxSupply": "33333333",
+  "website": "https://coinkai.eu",
+  "twitter": "https://x.com/kaidigitalcoin",
+  "telegram": "https://t.me/kairakael",
+  "explorer": "https://basescan.org/token/0x766deda04ACFF9098966b986d3e9f246Cfea5C74"
+}
